@@ -5,3 +5,5 @@ A revival project for MC 0.30_C
 1. make a instance in prism launcher
 2. change Minecraft.jar to the downloaded minecraft.jar
 3. Check out whats new
+# Capes
+I don't know how to add them. Please send a pull request and create a fork to add them. Working on fixing multiplayer.
